@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My background is in `Splunk Architecture`, `Data Engineer`, `DevOps` and `Cloud engineering`, developing software in `Go`, `Javascript`, `Python`. 
+My background is in `Splunk Architecture`, `Data Engineer`, `DevOps` and `Cloud engineering`, developing software in `Go`, `Rust`, `Javascript`, `Python`. 
 
 - 🔭 I'm currently focussed on service to help online seller manage thier company.
 - 🌱 Current research interests: AI and RPA
 - 📫 How to reach me: [@thegu](https://twitter.com/thegu)
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,astro,aws,bash,bootstrap,bun,cloudflare,devto,django,docker,elasticsearch,elysia,express,fastapi,firebase,gcp,git,go,heroku,html,js,linux,md,mongodb,mysql,nginx,nodejs,obsidian,postgres,py,regex,svelte,tailwind,tensorflow,terraform,ts,vue)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thegu)](https://github.com/ryo-ma/github-profile-trophy)
