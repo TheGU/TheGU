@@ -33,7 +33,13 @@
 - [quickwit](https://quickwit.io/) `cloud`,`paid` 
   Sub-second search & analytics engine on cloud storage
 
+### Database
+- [YugabyteDB](https://www.yugabyte.com/) `postgresql`,`opensource` 
+  Distributed PostgreSQL for Modern Apps
+- [CockroachDB](https://www.cockroachlabs.com/) `opensource` 
+  Scale when others fail. Run mission-critical apps on CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
+  
 ## Article
 
 ### Search Engine
